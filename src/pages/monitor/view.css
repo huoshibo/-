@@ -1,0 +1,215 @@
+.monitor_content {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	background: #f5f5f5;
+}
+.monitor_left {
+	width: 150px;
+	position: fixed;
+	top: 60px;
+	left: 80px;
+	bottom: 0;
+	background: #f1f1f1;
+	border-right: 1px solid #ccc;
+}
+
+.monitor_left_ul {
+	width: 150px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+}
+
+.monitor_left_ul li a {
+	text-decoration: none;
+	color: #333;
+}
+
+.monitor_right {
+	margin-left: 150px;
+	background: #f4f7fa;
+}
+
+.monitor_right_header {
+	width: 100%;
+	height: 60px;
+	background: #fff;
+}
+
+.monitor_right_main {
+	margin: 60px 0 0 150px;
+}
+
+.monitor_right_header_ul {
+	overflow: hidden;
+	line-height: 60px;
+	padding-left: 60px;
+}
+
+.monitor_right_header_ul li{
+	float: left;
+	line-height: 60px;
+	margin-top: 10px;
+	padding: 0 30px;
+}
+.monitor_right_header_ul li:hover {
+	cursor: pointer;
+}
+.monitor_right_header_ul li a {
+	text-decoration: none;
+	display: block;
+	width: 100%;
+	height: 100%;
+	padding: 0 15px;
+}
+
+.monitor_rnav_active {
+	background: #f4f7fa;
+	border-top: 2px solid blue;
+}
+
+.warnbox_tem, .glass_tem {
+	position: fixed;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+	display: none;
+}
+
+.glass_tem {
+	background: rgba(0, 0, 0, 0.3);
+}
+
+.warnbox_tem {
+	background: #fff;
+	width: 450px;
+	height: 250px;
+	border-radius: 10px;
+	box-shadow: 0, 0, 5px #000;
+} 
+.Warnbox_wrapper {
+	width: 100%;
+	height: 100%;
+}
+
+.Warnbox_wrapper h1 {
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+	overflow: hidden;
+	padding: 0 10px;
+}
+
+.Warnbox_wrapper h1 span {
+	float: left;
+}
+
+.Warnbox_wrapper h1 b {
+	float: right;
+	width: 30px;
+	height: 20px;
+	margin-top: 10px;
+	background: #f00;
+	line-height: 20px;
+	text-align: center;
+	color: #fff;
+	cursor: pointer;
+}
+
+.Warnbox_wrapper h1 b:hover {
+	cursor: pointer;
+}
+
+.extractor_ChartWrapper {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.chart {
+	float: left;
+	margin: 10px 15px;
+}
+
+.chart>div {
+	background: #fff;
+}
+
+.chart_top {
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+	margin-top: 10px;
+}
+
+.chart_top>div {
+	float: left;
+	margin-right: 50px;
+}
+
+.showTable {
+	margin-right: 0;
+	width: 500px;
+	height: 500px;
+	overflow: hidden;
+} 
+.chart_line div{
+	background: #fff;
+	box-shadow: 0, 0, 6px #000;
+	border-radius: 15px;
+}
+
+
+.showTable_ul {
+	width: 100%;
+	height: 485px;
+	background: #fff;
+	overflow: auto;
+	box-shadow: 0, 0, 6px #000;
+	border-radius: 15px;
+}
+.li_title {
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+	background: #f5f5f5;
+	color: #666;
+	font-size: 16px;
+	font-weight: bold;
+	border-bottom: 1px solid #ccc;
+}
+.table_li {
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+	border-bottom: 1px solid #ccc;
+}
+
+.table_date, .table_value, .table_status {
+	width: 32%;
+	display: inline-block;
+	text-align: center;
+}
+.table_date, .table_value {
+	border-right: 1px solid #ccc;
+}
+
+.table_li_warn {
+	background: rgba(255,255,0,0.1);
+	color: #666;
+	font-weight: bold;
+}
+.table_li_normal {
+	background: rgba(18,229,43,0.1)
+}
+.table_li_danger {
+	background: rgba(255,0,0,0.1);
+	color: #f00;
+	font-weight: bold;
+}
+
+
+

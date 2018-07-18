@@ -1,0 +1,8 @@
+.monitor_right_header {
+    overflow: hidden;
+}
+.monitor_right_main {
+    background: rgba(1, 157, 180, 0.1);
+    overflow: hidden;
+    height: 100%;
+}

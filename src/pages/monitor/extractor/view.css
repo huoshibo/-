@@ -1,0 +1,85 @@
+.extractor_preLineWrapper {
+	width: 100%;
+	height: 600px;
+	overflow: hidden;
+}
+
+.extractor_preLine_SelectDate {
+	width: 100%;
+	padding: 10px 25px;
+	border: 1px solid #ccc;
+	overflow: hidden;
+}
+.extractor_preLine_SelectDate>span {
+	float: left;
+}
+.extractor_preLine_SelectDate input[type=button] {
+	width: 75px;
+	height: 42px;
+	float: left;
+	border-radius: 5px;
+	border: none;
+	background: skyblue;
+	color: #fff;
+	box-shadow: 0 0 5px #000;
+}
+
+.ChartAndTableWrap {
+	width: 100%;
+	height: 600px;
+	overflow: auto;
+}
+
+.ChartAndTableWrap>div {
+	float: left;
+	width: 45%;
+	border: 1px solid #ccc;
+}
+
+.extractor_preDiagramWrapper {
+	width: 100%;
+	height: 500px;
+	overflow: hidden;
+}
+.extractor_preDiagramWrapper>div {
+	float: left;
+	width: 45%;
+	height: 100%;
+	background: #fff;
+	position: relative;
+}
+
+.diagramChartWrapper>h3 {
+	width: 100%;
+	height: 45px;
+	line-height: 45px;
+	background: #ccc;
+	color: #333;
+	overflow: hidden;
+	padding: 0 20px;
+}
+
+.diagramChartWrapper>h3 span {
+	float: left;
+	width: 33%;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+	text-align: center;
+}
+
+.diagramChartWrapper>h4 {
+	font-size: 12px;
+	color: #999;
+	height: 35px;
+	line-height: 35px;
+	padding: 0 25px;
+}
+
+.extractor_presureDiagram {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -250px;
+	margin-top: -160px;
+}

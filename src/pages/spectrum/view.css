@@ -1,0 +1,41 @@
+.Sepctrum_navleft {
+	width: 150px;
+	text-align: center;
+	position: fixed;
+	top: 60px;
+	left:80px;
+	bottom: 0;
+	background: #f1f1f1;
+}
+.Sepctrum_navleft>div {
+	height: 50px;
+	line-height: 50px;
+}
+.Sepctrum_navleft>div a {
+	text-decoration: none;
+	color: #666;
+}
+
+.Sepctrum_chartright {
+	margin-left: 150px;
+	background: rgba(0,255,255,0.1);
+}
+
+.SelectMedicine {
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	border: 1px solid #ccc;
+}
+
+.SelectMedicine select {
+	width: 100px;
+	height: 35px;
+	line-height: 35px;
+	border: none;
+	background: #fff;
+	color: #333;
+	box-shadow: 0 0 5px #000;
+	border-radius: 5px;
+	margin-left: 35px;
+}

@@ -1,0 +1,61 @@
+{
+	"page":1,
+	"success":"true",
+	"list": [{
+		"drugname":"当归",
+			"preContent":"90",
+			"preConUnit":"g",
+			"prePart":"当归",
+			"prezb":"18"
+		},{
+			"drugname":"地黄",
+			"preContent":"90",
+			"preConUnit":"g",
+			"prePart":"熟地黄",
+			"prezb":"18"
+		},{
+			"drugname":"党参",
+			"preContent":"60",
+			"preConUnit":"g",
+			"prePart":"党参",
+			"prezb":"12"
+		},{
+			"drugname":"茯苓",
+			"preContent":"60",
+			"preConUnit":"g",
+			"prePart":"茯苓",
+			"prezb":"12"
+		},{
+			"drugname":"白术",
+			"preContent":"60",
+			"preConUnit":"g",
+			"prePart":"白术（炒）",
+			"prezb":"12"
+		},{
+			"drugname":"白芍",
+			"preContent":"60",
+			"preConUnit":"g",
+			"prePart":"白芍（炒）",
+			"prezb":"12"
+		},{
+			"drugname":"川芎",
+			"preContent":"45",
+			"preConUnit":"g",
+			"prePart":"川芎",
+			"prezb":"9"
+		},{
+			"drugname":"甘草",
+			"preContent":"30",
+			"preConUnit":"g",
+			"prePart":"甘草（炙）",
+			"prezb":"6"
+		}],
+
+	"list1": [{
+			"preName":"八珍颗粒",
+			"preCompany":"宁波立华制药有限公司"
+		},{
+			"preName":"八珍颗粒",
+			"preCompany":"四川禾邦阳光制药股份有限公司"
+		}]
+}

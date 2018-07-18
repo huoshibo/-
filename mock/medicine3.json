@@ -1,0 +1,355 @@
+{
+	"ret": true,
+	"data": {
+		"listdata": [{
+			"id": 1,
+			"name": "麻黄汤",
+			"part":[{
+				"value": 8,
+				"name": "当归"	
+			},{
+				"value": 9,
+				"name": "三七"
+			},{
+				"value": 16,
+				"name": "人参"
+			},{
+				"value": 6,
+				"name": "芍药"
+			},{
+				"value": 12,
+				"name": "紫苏叶"
+			},{
+				"value": 21,
+				"name": "桂枝"
+			},{
+				"value": 23,
+				"name": "半夏"
+			},{
+				"value": 12,
+				"name": "甘草"
+			},{
+				"value": 18,
+				"name": "陈皮"
+			},{
+				"value": 25,
+				"name": "生姜"
+			}],
+			"resource": "《伤寒论》"
+		},{
+			"id": 2,
+			"name": "麻黄汤",
+			"part":[{
+				"value": 8,
+				"name": "当归"	
+			},{
+				"value": 9,
+				"name": "三七"
+			},{
+				"value": 16,
+				"name": "人参"
+			},{
+				"value": 6,
+				"name": "芍药"
+			},{
+				"value": 12,
+				"name": "紫苏叶"
+			},{
+				"value": 21,
+				"name": "桂枝"
+			},{
+				"value": 23,
+				"name": "半夏"
+			},{
+				"value": 12,
+				"name": "甘草"
+			},{
+				"value": 18,
+				"name": "陈皮"
+			},{
+				"value": 25,
+				"name": "生姜"
+			}],
+			"resource": "《伤寒论》"
+		},{
+			"id": 3,
+			"name": "麻黄汤",
+			"part":[{
+				"value": 8,
+				"name": "当归"	
+			},{
+				"value": 9,
+				"name": "三七"
+			},{
+				"value": 16,
+				"name": "人参"
+			},{
+				"value": 6,
+				"name": "芍药"
+			},{
+				"value": 12,
+				"name": "紫苏叶"
+			},{
+				"value": 21,
+				"name": "桂枝"
+			},{
+				"value": 23,
+				"name": "半夏"
+			},{
+				"value": 12,
+				"name": "甘草"
+			},{
+				"value": 18,
+				"name": "陈皮"
+			},{
+				"value": 25,
+				"name": "生姜"
+			}],
+			"resource": "《伤寒论》"
+		},{
+			"id": 4,
+			"name": "麻黄汤",
+			"part":[{
+				"value": 8,
+				"name": "当归"	
+			},{
+				"value": 9,
+				"name": "三七"
+			},{
+				"value": 16,
+				"name": "人参"
+			},{
+				"value": 6,
+				"name": "芍药"
+			},{
+				"value": 12,
+				"name": "紫苏叶"
+			},{
+				"value": 21,
+				"name": "桂枝"
+			},{
+				"value": 23,
+				"name": "半夏"
+			},{
+				"value": 12,
+				"name": "甘草"
+			},{
+				"value": 18,
+				"name": "陈皮"
+			},{
+				"value": 25,
+				"name": "生姜"
+			}],
+			"resource": "《伤寒论》"
+		},{
+			"id": 5,
+			"name": "麻黄汤",
+			"part":[{
+				"value": 8,
+				"name": "当归"	
+			},{
+				"value": 9,
+				"name": "三七"
+			},{
+				"value": 16,
+				"name": "人参"
+			},{
+				"value": 6,
+				"name": "芍药"
+			},{
+				"value": 12,
+				"name": "紫苏叶"
+			},{
+				"value": 21,
+				"name": "桂枝"
+			},{
+				"value": 23,
+				"name": "半夏"
+			},{
+				"value": 12,
+				"name": "甘草"
+			},{
+				"value": 18,
+				"name": "陈皮"
+			},{
+				"value": 25,
+				"name": "生姜"
+			}],
+			"resource": "《伤寒论》"
+		},{
+			"id": 6,
+			"name": "麻黄汤",
+			"part":[{
+				"value": 8,
+				"name": "当归"	
+			},{
+				"value": 9,
+				"name": "三七"
+			},{
+				"value": 16,
+				"name": "人参"
+			},{
+				"value": 6,
+				"name": "芍药"
+			},{
+				"value": 12,
+				"name": "紫苏叶"
+			},{
+				"value": 21,
+				"name": "桂枝"
+			},{
+				"value": 23,
+				"name": "半夏"
+			},{
+				"value": 12,
+				"name": "甘草"
+			},{
+				"value": 18,
+				"name": "陈皮"
+			},{
+				"value": 25,
+				"name": "生姜"
+			}],
+			"resource": "《伤寒论》"
+		},{
+			"id": 7,
+			"name": "麻黄汤",
+			"part":[{
+				"value": 8,
+				"name": "当归"	
+			},{
+				"value": 9,
+				"name": "三七"
+			},{
+				"value": 16,
+				"name": "人参"
+			},{
+				"value": 6,
+				"name": "芍药"
+			},{
+				"value": 12,
+				"name": "紫苏叶"
+			},{
+				"value": 21,
+				"name": "桂枝"
+			},{
+				"value": 23,
+				"name": "半夏"
+			},{
+				"value": 12,
+				"name": "甘草"
+			},{
+				"value": 18,
+				"name": "陈皮"
+			},{
+				"value": 25,
+				"name": "生姜"
+			}],
+			"resource": "《伤寒论》"
+		},{
+			"id": 8,
+			"name": "麻黄汤",
+			"part":[{
+				"value": 8,
+				"name": "当归"	
+			},{
+				"value": 9,
+				"name": "三七"
+			},{
+				"value": 16,
+				"name": "人参"
+			},{
+				"value": 6,
+				"name": "芍药"
+			},{
+				"value": 12,
+				"name": "紫苏叶"
+			},{
+				"value": 21,
+				"name": "桂枝"
+			},{
+				"value": 23,
+				"name": "半夏"
+			},{
+				"value": 12,
+				"name": "甘草"
+			},{
+				"value": 18,
+				"name": "陈皮"
+			},{
+				"value": 25,
+				"name": "生姜"
+			}],
+			"resource": "《伤寒论》"
+		},{
+			"id": 9,
+			"name": "麻黄汤",
+			"part":[{
+				"value": 8,
+				"name": "当归"	
+			},{
+				"value": 9,
+				"name": "三七"
+			},{
+				"value": 16,
+				"name": "人参"
+			},{
+				"value": 6,
+				"name": "芍药"
+			},{
+				"value": 12,
+				"name": "紫苏叶"
+			},{
+				"value": 21,
+				"name": "桂枝"
+			},{
+				"value": 23,
+				"name": "半夏"
+			},{
+				"value": 12,
+				"name": "甘草"
+			},{
+				"value": 18,
+				"name": "陈皮"
+			},{
+				"value": 25,
+				"name": "生姜"
+			}],
+			"resource": "《伤寒论》"
+		},{
+			"id": 10,
+			"name": "麻黄汤",
+			"part":[{
+				"value": 8,
+				"name": "当归"	
+			},{
+				"value": 9,
+				"name": "三七"
+			},{
+				"value": 16,
+				"name": "人参"
+			},{
+				"value": 6,
+				"name": "芍药"
+			},{
+				"value": 12,
+				"name": "紫苏叶"
+			},{
+				"value": 21,
+				"name": "桂枝"
+			},{
+				"value": 23,
+				"name": "半夏"
+			},{
+				"value": 12,
+				"name": "甘草"
+			},{
+				"value": 18,
+				"name": "陈皮"
+			},{
+				"value": 25,
+				"name": "生姜"
+			}]
+		}]
+	}
+}

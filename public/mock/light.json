@@ -1,0 +1,132 @@
+{
+	"data": [{
+		"name": "麻黄",
+		"data": [{
+			"date": "2018-01-01",
+			"light_intensity": 121,
+			"absorbancy": 85
+		},{
+			"date": "2018-01-02",
+			"light_intensity": 100,
+			"absorbancy": 75
+		},{
+			"date": "2018-01-03",
+			"light_intensity": 85,
+			"absorbancy": 60
+		},{
+			"date": "2018-01-04",
+			"light_intensity": 75,
+			"absorbancy": 56
+		},{
+			"date": "2018-01-05",
+			"light_intensity": 110,
+			"absorbancy": 90
+		},{
+			"date": "2018-01-06",
+			"light_intensity": 130,
+			"absorbancy": 90
+		},{
+			"date": "2018-01-07",
+			"light_intensity": 145,
+			"absorbancy": 76
+		},{
+			"date": "2018-01-08",
+			"light_intensity": 125,
+			"absorbancy": 85
+		},{
+			"date": "2018-01-09",
+			"light_intensity": 125,
+			"absorbancy": 85
+		},{
+			"date": "2018-01-10",
+			"light_intensity": 145,
+			"absorbancy": 65
+		}]
+	},{
+		"name": "桂枝",
+		"data": [{
+			"date": "2018-01-01",
+			"light_intensity": 65,
+			"absorbancy": 85
+		},{
+			"date": "2018-01-02",
+			"light_intensity": 75,
+			"absorbancy": 75
+		},{
+			"date": "2018-01-03",
+			"light_intensity": 95,
+			"absorbancy": 60
+		},{
+			"date": "2018-01-04",
+			"light_intensity": 35,
+			"absorbancy": 56
+		},{
+			"date": "2018-01-05",
+			"light_intensity": 12,
+			"absorbancy": 90
+		},{
+			"date": "2018-01-06",
+			"light_intensity": 78,
+			"absorbancy": 90
+		},{
+			"date": "2018-01-07",
+			"light_intensity": 78,
+			"absorbancy": 76
+		},{
+			"date": "2018-01-08",
+			"light_intensity": 96,
+			"absorbancy": 85
+		},{
+			"date": "2018-01-09",
+			"light_intensity": 65,
+			"absorbancy": 85
+		},{
+			"date": "2018-01-10",
+			"light_intensity": 78,
+			"absorbancy": 65
+		}]
+	},{
+		"name": "甘草",
+		"data": [{
+			"date": "2018-01-01",
+			"light_intensity": 55,
+			"absorbancy": 85
+		},{
+			"date": "2018-01-02",
+			"light_intensity": 11,
+			"absorbancy": 75
+		},{
+			"date": "2018-01-03",
+			"light_intensity": 22,
+			"absorbancy": 60
+		},{
+			"date": "2018-01-04",
+			"light_intensity": 33,
+			"absorbancy": 56
+		},{
+			"date": "2018-01-05",
+			"light_intensity": 44,
+			"absorbancy": 90
+		},{
+			"date": "2018-01-06",
+			"light_intensity": 55,
+			"absorbancy": 90
+		},{
+			"date": "2018-01-07",
+			"light_intensity": 66,
+			"absorbancy": 76
+		},{
+			"date": "2018-01-08",
+			"light_intensity": 55,
+			"absorbancy": 85
+		},{
+			"date": "2018-01-09",
+			"light_intensity": 44,
+			"absorbancy": 85
+		},{
+			"date": "2018-01-10",
+			"light_intensity": 77,
+			"absorbancy": 65
+		}]
+	}]
+}

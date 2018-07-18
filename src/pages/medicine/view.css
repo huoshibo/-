@@ -1,0 +1,245 @@
+.medicineWrapper {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.chartWrapper {
+	padding-top: 0;
+}
+
+.medicine_left {
+	float: left;
+	width: 11%;
+	position: fixed;
+	top: 60px;
+	left: 80px;
+	bottom: 0;
+	background: #f1f1f1;
+	border-right: 1px solid #ccc;
+}
+
+.medicine_left ul {
+	width: 150px;
+	text-align: center;
+}
+
+.medicine_left ul li {
+	line-height: 50px;
+}
+
+.medicine_right {
+	float: left;
+	width: 87%;
+	height: auto;
+	margin-left: 11%;
+	padding-left: 9px;
+	background: rgba(0,0,255,0.1)
+}
+
+.medicine_header {
+	width: 100%;
+	height: 60px;
+	background: #fff;
+	overflow: hidden;
+}
+
+.medicine_header_nav {
+	overflow: hidden;
+}
+
+.medicine_header_nav a{
+	display: block;
+	float: left;
+	margin-top: 15px;
+	line-height: 50px;
+	padding: 0 20px;
+	border-top: 3px solid #fff;
+	cursor: pointer;
+	text-decoration: none;
+	color: #333;
+}
+
+a.me_aActive {
+	border-top: 3px solid skyblue;
+	background: #f5f5f5;
+	color: #666;
+}
+
+.showtableData {
+	width: 95%;
+	height: 500px;
+	padding: 10px;
+	margin: 0 auto;
+	overflow: auto;
+}
+
+.tableheader {
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	background: #f5f5f5;
+	color: #666;
+	overflow: hidden;
+}
+.tablecontent {
+	line-height: 40px;
+	overflow: hidden;
+}
+.tableheader>span {
+	text-align: center;
+}
+.tablecontent>span, .tableheader>span{
+	display: block;
+	float: left;
+}
+.medicineName {
+	width: 12%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	text-align: center;
+}
+.Hasthings {
+	width: 68%;
+}
+.Hasthings_con {
+	width: 70%;
+	height: 30px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	text-align: left;
+}
+.resource {
+	width: 10%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+
+}
+.readmore {
+	width: 8%;
+}
+.readmore button {
+	padding: 3px 10px;
+	border: none;
+	background: #ccc;
+	color: #666;
+	box-shadow: 0,0,10px #000;
+	border-radius: 6px;
+}
+.HasMed {
+	padding: 0 10px;
+}
+
+.tablecontent:nth-child(odd) {
+	background: #fff;
+}
+.tablecontent:nth-child(even){
+	background: rgba(255,255,0,0.3);
+}
+.glass {
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	background: rgba(0,0,0,0.2);
+	display: none;
+}
+
+.ShowChart {
+	width: 600px;
+	height: 500px;
+	background: #fff;
+	position: fixed;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	display: none;
+	z-index: 16;
+	box-shadow: 0 0 10px #000;
+	border-radius: 10px;
+}
+
+.ShowChart h1 {
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	background: #f1f1f1;
+}
+.ShowChart h1 span {
+	float: left;
+	width: 85%;
+	text-align: center;
+	color: #666;
+	font-size: 22px;
+}
+
+.ShowChart h1 b {
+	cursor: pointer;
+	float: right;
+	margin-right: 20px;
+	width: 6%;
+	height: 25px;
+	text-align: center;
+	line-height: 25px;
+	background: #f00;
+	color: #fff;
+	margin-top: 12.5px;
+}
+
+.searchInp {
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	border: 1px solid #ccc;
+	background: #f5f5f5;
+	padding: 0 20px;
+	position: relative;
+}
+
+.searchInp input:nth-child(1) {
+	width: 300px;
+	height: 35px;
+	border: none;
+	background: #fff;
+	padding-left: 10px;
+	border-radius: 6px 0 0 6px;
+	box-shadow: 0 0 5px #ccc;
+}
+.searchInp input:nth-child(2) {
+	width: 60px;
+	height: 35px;
+	border: none;
+	background: skyblue;
+	color: #fff;
+	border-radius: 0px 6px 6px 0;
+	box-shadow: 0 0 5px #ccc;
+}
+
+.listTip {
+	width: 350px;
+	background: #fff;
+	box-shadow: 0 0 5px #000;
+	position: absolute;
+	top: 50px;
+	z-index: 6;
+}
+.listTip li {
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+	cursor: pointer;
+}
+
+#pie_one {
+	margin: 10px 50px;
+}
+
+#pie_one div{
+	background: #fff;
+}

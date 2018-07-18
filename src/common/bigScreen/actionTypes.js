@@ -1,0 +1,1 @@
+export const GET_STYLESTATUS = 'bigScreen/GET_STYLESTATUS';
